@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ramens</key>
+	<array>
+		<dict>
+			<key>imageLink</key>
+			<string>http://serenity.ist.rit.edu/~axm6392/454/Images/shioRamen.jpg</string>
+			<key>name</key>
+			<string>Shio Classic Ramen</string>
+			<key>description</key>
+			<string>Curly noodles served in the simplest creamy chicken broth topped with charbroiled slow-cooked chicken chashu, marinated egg, nori seaweed, beansprouts, bamboo shoot, and scallions</string>
+			<key>price</key>
+			<integer>10</integer>
+			<key>category</key>
+			<string>Ramen</string>
+			<key>imageName</key>
+			<string>shioRamen.jpg</string>
+		</dict>
+		<dict>
+			<key>imageLink</key>
+			<string>http://serenity.ist.rit.edu/~axm6392/454/Images/tokyoShoyuRamen.jpg</string>
+			<key>name</key>
+			<string>Tokyo Shoyu Ramen</string>
+			<key>description</key>
+			<string>Curly noodles served in soy sauce based creamy chicken broth topped with charbroiled slow-cooked pork or chicken chashu, marinated egg, kikurage mushroom, beansprouts, bamboo shoot, and scallions</string>
+			<key>price</key>
+			<integer>11</integer>
+			<key>category</key>
+			<string>Ramen</string>
+			<key>imageName</key>
+			<string>tokyoShoyuRamen.jpg</string>
+		</dict>
+		<dict>
+			<key>imageLink</key>
+			<string>http://serenity.ist.rit.edu/~axm6392/454/Images/spicyRedChiliRamen.jpg</string>
+			<key>name</key>
+			<string>Spicy Red Chili Ramen</string>
+			<key>description</key>
+			<string>Curly rye noodles served in hearty miso chicken broth topped with house chili oil, charbroiled slow-cooked pork or chicken chashu, smashed egg, bean sprouts, bok choy, and scallions</string>
+			<key>price</key>
+			<integer>12</integer>
+			<key>category</key>
+			<string>Ramen</string>
+			<key>imageName</key>
+			<string>spicyRedChiliRamen.jpg</string>
+		</dict>
+		<dict>
+			<key>imageLink</key>
+			<string>http://serenity.ist.rit.edu/~axm6392/454/Images/misoRamen.jpg</string>
+			<key>name</key>
+			<string>Miso Ramen</string>
+			<key>description</key>
+			<string>Curly noodles served in hearty miso chicken broth topped with charbroiled slow-cooked chicken chashu, marinated egg, corn, bean sprouts, bamboo shoot, and scallions</string>
+			<key>price</key>
+			<integer>11</integer>
+			<key>category</key>
+			<string>Ramen</string>
+			<key>imageName</key>
+			<string>misoRamen.jpg</string>
+		</dict>
+		<dict>
+			<key>imageLink</key>
+			<string>http://serenity.ist.rit.edu/~axm6392/454/Images/matcha%20tea.jpg</string>
+			<key>name</key>
+			<string>Iced Matcha Green Tea Latte</string>
+			<key>description</key>
+			<string>Smooth and creamy iced green tea latte is lightly sweetened and served with milk over ice</string>
+			<key>price</key>
+			<integer>4</integer>
+			<key>category</key>
+			<string>Drinks</string>
+			<key>imageName</key>
+			<string>matcha tea.jpg</string>
+		</dict>
+		<dict>
+			<key>imageLink</key>
+			<string>http://serenity.ist.rit.edu/~axm6392/454/Images/homemadeGingerAle.jpg</string>
+			<key>name</key>
+			<string>Homemade Ginger Ale</string>
+			<key>description</key>
+			<string>A tall, refreshing glass of ginger ale is a fantastic drink</string>
+			<key>price</key>
+			<real>4.5</real>
+			<key>category</key>
+			<string>Drinks</string>
+			<key>imageName</key>
+			<string>homemadeGingerAle.jpg</string>
+		</dict>
+		<dict>
+			<key>imageLink</key>
+			<string>http://serenity.ist.rit.edu/~axm6392/454/Images/ramuneJapaneseSoda.jpg</string>
+			<key>name</key>
+			<string>Ramune Japanese Soda</string>
+			<key>description</key>
+			<string>Refreshing, fizzy, and fun Ramune soft soda</string>
+			<key>price</key>
+			<integer>4</integer>
+			<key>category</key>
+			<string>Drinks</string>
+			<key>imageName</key>
+			<string>ramuneJapaneseSoda.jpg</string>
+		</dict>
+		<dict>
+			<key>imageLink</key>
+			<string>http://serenity.ist.rit.edu/~axm6392/454/Images/yuzuLemonade.jpeg</string>
+			<key>name</key>
+			<string>Yuzu Lemonade</string>
+			<key>description</key>
+			<string>The taste is very distinctive and can be described as the taste of fresh lemon, sweet clementine and bitter grapefruit combined</string>
+			<key>price</key>
+			<integer>4</integer>
+			<key>category</key>
+			<string>Drinks</string>
+			<key>imageName</key>
+			<string>yuzuLemonade.jpeg</string>
+		</dict>
+	</array>
+</dict>
+</plist>
